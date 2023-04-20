@@ -228,6 +228,6 @@ mongoose
     console.log("DB connected");
   });
 
-app.listen(5001, () => {
+app.listen(5002, () => {
   console.log("Server started");
 });
